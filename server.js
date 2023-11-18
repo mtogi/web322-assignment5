@@ -8,7 +8,7 @@
 * 
 *  Name: Mustafa Toygar Baykal Student ID: 112398227 Date: November 18, 2023
 *
-*  Published URL: 
+*  Published URL: https://tiny-blue-bighorn-sheep-shoe.cyclic.app
 *
 ********************************************************************************/
 
